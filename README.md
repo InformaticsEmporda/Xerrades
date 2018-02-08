@@ -11,3 +11,5 @@ Les xerrades les donen membres del grup, així que si t'animes a explicar-nos al
 O si t'agradaria que algú parlés d'un tema en concret, obra un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new)!
 
 Les propostes amb més :+1: seràn les escollides, així que no t'oblidis de votar les que més t'agraden!
+
+Oh, i també tenim un [grup de Telegram](https://t.me/joinchat/AAAAAA7Rg1MTu5efBr65Uw)!
