@@ -6,10 +6,38 @@ La finalitat del grup no és altra que la de crear un punt de trobada de profess
 
 Organitzem xerrades per veure'ns les cares i fer ~~unes cerveses~~ networking.
 
-Les xerrades les donen membres del grup, així que si t'animes a explicar-nos alguna cosa, obra un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new)! 
+Si ens vols conèixer i estar al dia del que fem, tenim un [grup obert de Telegram](https://t.me/joinchat/AAAAAA7Rg1MTu5efBr65Uw)!
 
-O si t'agradaria que algú parlés d'un tema en concret, obra un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new)!
+## Les xerrades
 
-Les propostes amb més :+1: seràn les escollides, així que no t'oblidis de votar les que més t'agraden!
+Les xerrades són totalment obertes, tothom pot proposar una xerrada o un tema.
 
-Oh, i també tenim un [grup de Telegram](https://t.me/joinchat/AAAAAA7Rg1MTu5efBr65Uw)!
+Pots consultar les xerrades i temes proposats a la secció de [issues](https://github.com/InformaticsEmporda/Xerrades/issues), les veuràs etiquetades!
+
+### Com afeir xerrades?
+
+Si t'animes a explicar-nos alguna cosa, obra un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new) amb un titol _catchy_, una descripció, i selecciona la opció: 
+
+```- [x] Vull fer una xerrada```
+
+Si per el contrari t'agradaria que algú parlés d'un tema en concret, pots obrir un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new) explicant el que t'agradaría, i selecciona la opció:
+
+```- [x] Proposo que algú faci una xerrada```
+
+O potser coneixes algú que no està al grup, o que és de fora, i que podría parlar d'alguna cosa interessant, doncs obra un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new) amb la opció:
+
+```- [x] Conec algú que la pot fer```
+
+Pots obrir un issue amb més d'una opció!
+
+### Com es seleccionen les properes xerrades?
+
+Les propostes amb més :+1: seràn les escollides, així que no t'oblidis d'anar visitant el repositori sovint i de votar les que més t'agraden!
+
+## Com puc ajudar?
+
+Com ja hem dit, aquest grup és obert i de tothom, així que tota ajuda serà ben rebuda!
+
+Pots ajudar donant o proposant xerrades, comentant els issues oberts, o si creus que hi ha alguna cosa a millorar, obra un [issue](https://github.com/InformaticsEmporda/Xerrades/issues/new) i ho comentes.
+
+Si veus algún error al repositori, o creus que pots millorar alguna cosa, també pots crear una _pull request_ i ens la mirarem encantats!
