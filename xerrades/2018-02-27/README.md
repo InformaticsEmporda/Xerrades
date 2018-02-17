@@ -12,7 +12,7 @@
 
 - 21:15- **Networking** 
 
-Un cop finalitzades les xerrades, passarem a la part _extraoficial_ amb :beer: i :fork_and_knife: Arribem a peu en 5 minuts.
+> Un cop finalitzades les xerrades, passarem a la part _extraoficial_ amb :beer: i :fork_and_knife: Arribem a peu en 5 minuts.
 
 ## Emplaçament Xerrada
 
