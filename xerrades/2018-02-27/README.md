@@ -2,11 +2,11 @@
 # Dimarts, 27 de febrer
 # Sala Ubuntu, Empordà Cowork
 
-#### El dimarts dia 27 de febrer farem la primera xerrada tècnica organitzada per Informàtics Empordà. Serà a la sala Ubuntu de l'[Empordà Cowork](http://empordacowork.cat), c/ Carles Fages de Climent 36. 2n pis.
+El dimarts dia 27 de febrer farem la primera xerrada tècnica organitzada per Informàtics Empordà. Serà a la sala Ubuntu de l'[Empordà Cowork](http://empordacowork.cat), c/ Carles Fages de Climent 36. 2n pis.
 
-#### Després de la xerrada farem una estona de networking a la cafeteria Da Vinci, a 6 minuts a peu des d'Empordà Cowork.
+Després de la xerrada farem una estona de networking a la cafeteria Da Vinci, a 6 minuts a peu des d'Empordà Cowork.
 
-### Agenda
+## Agenda
 
 - 20:15-20:30 **Benvinguda i Presentació**
 
@@ -32,6 +32,6 @@ _[Empordà Cowork a Google Maps](https://www.google.es/maps/place/Emporda+Cowork
 
 ### Emplaçament Networking
 
-[![Da Vinci](https://github.com/InformaticsEmporda/Xerrades/blob/draft-xerrada-2018-02-27/xerrades/2018-02-27/Da-vinci-figueres-1.jpg?raw=true)](https://www.google.es/maps/place/Cafeteria+Da+Vinci/@42.257846,2.9655472,15z/data=!4m5!3m4!1s0x0:0xc6a3c518c3b12ade!8m2!3d42.257846!4d2.9655472)
+[![Da Vinci](https://github.com/InformaticsEmporda/Xerrades/blob/draft-xerrada-2018-02-27/xerrades/2018-02-27/Foto-Da-vinci-figueres-1.jpg?raw=true)](https://www.google.es/maps/place/Cafeteria+Da+Vinci/@42.257846,2.9655472,15z/data=!4m5!3m4!1s0x0:0xc6a3c518c3b12ade!8m2!3d42.257846!4d2.9655472)
 
 _[Itinerari recomenat per arribar a Da Vinci des de Cowork Empordà](https://www.google.es/maps/dir/Emporda+Cowork,+Figueres/Cafeteria+Da+Vinci,+Carrer+Mare+de+D%C3%A9u+de+Montserrat,+11,+17600+Figueres,+Girona/@42.2583027,2.9599835,17z/data=!4m14!4m13!1m5!1m1!1s0x12ba8dc014c7dc1f:0x757f19e7680433eb!2m2!1d2.9587698!2d42.2583604!1m5!1m1!1s0x12ba8dc79adbd9f7:0xc6a3c518c3b12ade!2m2!1d2.9655472!2d42.257846!3e2)_
