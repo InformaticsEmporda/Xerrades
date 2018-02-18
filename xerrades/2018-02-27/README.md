@@ -2,7 +2,7 @@
 # Dimarts, 27 de febrer
 # Sala Ubuntu, Empordà Cowork
 
-#### El dimarts dia 27 de febrer farem la primera xerrada tècnica organitzada per Informàtics Empordà. Serà a la sala Ubuntu del [Empordà Cowork](http://empordacowork.cat), c/ Carles Fages de Climent 36. 2n pis.
+#### El dimarts dia 27 de febrer farem la primera xerrada tècnica organitzada per Informàtics Empordà. Serà a la sala Ubuntu de l'[Empordà Cowork](http://empordacowork.cat), c/ Carles Fages de Climent 36. 2n pis.
 
 #### Després de la xerrada farem una estona de networking a la cafeteria Da Vinci, a 6 minuts a peu des d'Empordà Cowork.
 
