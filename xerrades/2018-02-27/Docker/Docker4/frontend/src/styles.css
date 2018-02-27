@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+div {
+  padding: 0;
+  margin: 0;
+}
+
+.text {
+  padding: 20px;
+  margin: 0;
+  font-size: 20dpi;
+  font-weight: bold;
+}

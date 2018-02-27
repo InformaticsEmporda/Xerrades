@@ -1,0 +1,13 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div *ngIf="error; else mostra">
+  <p> Error:{{error}}</p>
+</div>
+<ng-template #mostra>
+  <div style="text-align:center" (click)="onReload()">
+    <ng-container *ngFor="let color of llistaColors">
+      <p class="text" [style.backgroundColor]="color.rgb">
+        El color és ... {{ color.nom }}!
+      </p>
+    </ng-container>
+  </div>
+</ng-template>
