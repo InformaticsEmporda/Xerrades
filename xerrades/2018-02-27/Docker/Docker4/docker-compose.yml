@@ -1,0 +1,14 @@
+version: '3'
+services:
+    colorsservice:
+        build: ./ColorsService
+        ports:
+         - 4567:4567
+        depends_on:
+         - db
+    db:
+        build: ./database
+    front:
+        build: ./frontend
+        depends_on:
+         - colorsservice
