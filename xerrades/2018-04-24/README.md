@@ -33,3 +33,9 @@ El restaurant disposa de servei de bar a partir de les 17:00, així que els qui 
 ### Emplaçament
 
 [![El Pati, c/ Muralla, 7](imgs/logo_el_pati.jpg)](https://goo.gl/maps/g2AeUi1CEkJ2)
+
+## Fotos 
+
+![Apertura](imgs/001.jpg)
+![002](imgs/002.jpg)
+![003](imgs/003.jpg)
