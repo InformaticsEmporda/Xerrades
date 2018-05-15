@@ -16,7 +16,7 @@ El restaurant disposa de servei de bar a partir de les 17:00, així que els qui 
 
 > Ens trobem tots al restaurant El Pati per obrir la sessió.
 
-* 20:15-21:30 **Novetats del nou reglament de protecció de dades** per Luis García ( [comseveral.com](https://www.comseveral.com) )
+* 20:15-21:30 **Novetats del nou reglament de protecció de dades** per Luis García, Gerent a [Comseveral](https://www.comseveral.com) )
 
 > El dia 25 de Maig entra en vigor el nou reglament de protecció de dades, 
 > en aquesta xerrada Luis Garcia explicarà les novetats que aquesta regulació porta associades i els requisits pel seu cumpliment. 
